@@ -1,0 +1,23 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     outline: none;
+   }
+   
+   html,body {
+     height: 100%;
+   }
+   
+   fieldset {
+     display: flex;
+     justify-content: center;
+     width: 500px;
+     height: 600px;
+     margin: 0 auto;
+   }
+   
+   legend {
+     font-size: 25px;
+     margin-left: 10px;
+   }
